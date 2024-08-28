@@ -1,0 +1,27 @@
+/*Estilo para o título do primeiro parágrafo */ 
+h1 {
+        font-size: 30px; 
+        font-family: Arial, sans-serif; 
+        color: blue; 
+} 
+
+ /* Estilo para o primeiro parágrafo */ 
+.paragrafo1 {
+                     font-size: 30px; 
+                     font-family: Arial, sans-serif;
+                     color: blue; 
+} 
+
+ /* Estilo para o segundo parágrafo */ 
+.paragrafo2 {
+              font-size: 20px;
+ font-family: Arial, sans-serif;
+ color: red; 
+ } 
+
+ /* Estilo para o terceiro parágrafo */
+
+ .paragrafo3 {
+ font-size: 15px; 
+ font-family: 'Times New Roman', Times, serif; 
+ color: blac
